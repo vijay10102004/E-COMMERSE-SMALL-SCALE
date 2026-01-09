@@ -63,9 +63,9 @@ This project simulates a real-world e-commerce platform where:
 
 ## 🧰 Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Java (Spring Boot) / Node.js
-* **Database:** MySQL
+* **Frontend:** HTML, CSS, JavaScript,React JS
+* **Backend:** Java (Spring Boot)
+* **Database:** PostgreSql
 * **Version Control:** Git & GitHub
 
 ---
@@ -144,6 +144,7 @@ Aspiring Software Developer
 Madurai, India
 
 ---
+
 
 
 
